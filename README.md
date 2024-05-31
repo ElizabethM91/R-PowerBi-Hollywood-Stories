@@ -13,19 +13,19 @@ In the R portion of the project, I performed extensive data manipulation tasks i
 
 ### 🖼️ PowerBi Dashboard
 After cleaning the data using R in RStudio I then exported my newly cleaned data into PowerBi to create an interactive dashboard. The dashboard consists of five main visualisations:
-1. **The average Rotten Tomatoes ratings of each genre.
-2. **The number of movies produced per year.
-3. **The audience score for each film.
-4. **The profitability per studio.
-5. **The worldwide gross per genre.
+1. **The average Rotten Tomatoes ratings of each genre.**
+2. **The number of movies produced per year.**
+3. **The audience score for each film.**
+4. **The profitability per studio.**
+5. **The worldwide gross per genre.**
 
 I then had the opportunity to add in additional visualisations and cards that I would feel fit in well with the ones already created so I added:
-1. **Average Rotten Tomatoes scores for each studio
-2. **The amount of films released per year
-3. **Average audience score
-4. **Average Rotten Tomatoes Score
-5. **Overall Profit
-6. **Overall worldwide gross
+1. **Average Rotten Tomatoes scores for each studio**
+2. **The amount of films released per year**
+3. **Average audience score**
+4. **Average Rotten Tomatoes Score**
+5. **Overall Profit**
+6. **Overall worldwide gross**
 
 With my dashboard I also included two filter boxes that allows users to select specific years or genres so that they can tailor the results to what they want to analyse.
 
